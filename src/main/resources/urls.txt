@@ -1,0 +1,8 @@
+/users/Marcelo/info/birthday
+/users/Maria/info/location
+/users/
+/users/1
+/users/2
+/department/
+/department/1
+/department/2
